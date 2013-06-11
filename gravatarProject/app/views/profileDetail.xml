@@ -1,0 +1,9 @@
+<Alloy>
+	<Window class="container">
+		<ImageView id="imageView" top ="10" width = "60" height = "100"/>
+		<Label id="label1"  top ="125" width="Ti.UI.SIZE" height="Ti.UI.SIZE" />
+		<Label id="label2"  top ="155" width="Ti.UI.SIZE" height="Ti.UI.SIZE" />
+		<Label id="label3"  top ="185" width="Ti.UI.SIZE" height="Ti.UI.SIZE" />
+		<Label id="label4"  top ="215" width="Ti.UI.SIZE" height="Ti.UI.SIZE" />
+	</Window>
+</Alloy>

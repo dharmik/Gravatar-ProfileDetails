@@ -1,0 +1,6 @@
+<Alloy>
+	<Window class="container">
+		<TextField id="textField" hintText="Gravatar E-mail" borderStyle="Ti.UI.INPUT_BORDERSTYLE_ROUNDED" color="#336699" width="250" height="40"/>
+		<Button id="button" onClick ="Click" title="Click" width="100" height="30" bottom ="170"/>
+	</Window>
+</Alloy>

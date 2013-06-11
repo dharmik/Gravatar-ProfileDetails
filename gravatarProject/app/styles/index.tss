@@ -1,0 +1,9 @@
+
+".container": {
+	backgroundColor:"white"
+},
+"TextField": {
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	color: "#000"
+} 
